@@ -38,7 +38,7 @@ class DS8Stats {
             return $query_vars;
         }
         
-        private static function csv_to_multidimension_array($filename='', $delimiter=','){
+        private static function csv_to_multidimension_array($filename='', $delimiter=';'){
             if(!file_exists($filename) || !is_readable($filename)) {
                 return false;
             }
@@ -109,7 +109,7 @@ class DS8Stats {
           if ( !empty($pyear) ) {
             $file_name = self::get_file_stat($pyear);
           }else{
-            $file_name = 'stats_2023.csv';
+            $file_name = 'Stats_2023.csv';
           }
           
           $main_dir = DS8STATS_PLUGIN_DIR . '_tablas/'.$file_name; //stats_2023.csv';
