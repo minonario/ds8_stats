@@ -109,7 +109,7 @@ class DS8Stats {
           if ( !empty($pyear) ) {
             $file_name = self::get_file_stat($pyear);
           }else{
-            $file_name = 'Stats_2023.csv';
+            $file_name = $str;
           }
           
           $main_dir = DS8STATS_PLUGIN_DIR . '_tablas/'.$file_name; //stats_2023.csv';

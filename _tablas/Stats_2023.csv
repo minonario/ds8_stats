@@ -1,51 +1,84 @@
-EMISOR;INSTRUMENTO;TIPO MONEDA;MONTO;FECHA ;#PROVIDENCIA;DICTAMEN;PROVIDENCIA;PROSPECTO
-Agropecuaria San Marino;PC;;600.000;;;;;
-Inversiones CDE, C.A. (PYME);PC;USD;300.000;;;;;
-Alice Neum√°ticos de Venezuela;PC;;200.000;;;;;
-Menssajero, C.A.;PC;Indexada;300.000;ago 2023;081;;;
-Corporaci√≥n Berakah, C.A.;PC;Indexada;300.000;ago 2023;079;;;
-Compa√±√≠a Venezolana de Cer√°mica, C.A. (VENCER√ÅMICA);PC;;200.000;;;;;
-C.A. Ron Santa Teresa;PC;USD;300.000;jul 2023;075;;;
-Fivenca Sociedad Titularizadora, C.A.;TP;Indexada;450.000;jul 2023;074;;;
-Calox International, C.A.;PC;Bs;1.836.000;jun 2023;073;;;
-Calox International, C.A.;PC;Bs;1.836.000;jun 2023;072;;;
-Calox International, C.A.;PC;Bs;1.836.000;jun 2023;071;;;
-Calox International, C.A.;PC;Bs;1.836.000;jun 2023;070;;;
-Calox International, C.A.;PC;Bs;1.836.000;jun 2023;069;;;
-Calox International, C.A.;PC;Bs;1.836.000;jun 2023;068;;;
-Inversiones Top Suministros, C.A.;PC;Bs;400.000;jun 2023;065;;;
-Dayco Telecom, C.A.;PC;USD;800.000;jun 2023;064;;;
-Wi-fi Solution 7-8, C.A.;PC;Indexada;70.000;may 2023;059;;;
-Mercantil Servicios Financieros, C.A.;PC;Bs;24.401.600;may 2023;057-III;;;
-Mercantil Servicios Financieros, C.A.;PC;Bs;24.401.600;may 2023;057-II;;;
-Mercantil Servicios Financieros, C.A.;PC;Bs;24.401.600;may 2023;057;;;
-Distribuidora Agr√≠cola Do-Gil, C.A.;PG;Indexada;150.000;may 2023;054;;;
-Warao Company, C.A.;Valorem;Bs;10.000;abr 2023;052;;;
-Montana Gr√°fica, C.A.;PC;Bs;600.000;abr 2023;051;;;
-Montana Gr√°fica, C.A.;PC;Bs;600.000;abr 2023;050;;;
-Alimentos FM, C.A. (Bio Mercados);PG;Bs;600.000;abr 2023;049;;;
-Alimentos FM, C.A. (Bio Mercados);PG;Bs;600.000;abr 2023;048;;;
-Multiservicios Noreverford Especialistas, C.A.;Valorem;Bs;7.000;abr 2023;047;;;
-Procesadora Marsoca, C.A.;PG;USD;400.000;abr 2023;046;;;
-Procesadora Marsoca, C.A.;PC;Indexada;600.000;abr 2023;045;;;
-Industrias Iberia, C.A.;PC;Bs;300.000;abr 2023;044;;;
-Agropecuaria Agromar, C.A. (PYME);PC;Indexada;200.000;mar 2023;039;;;
-Grupo APRADOC, C.A.;PC;USD;1.000.000;mar 2023;038;;;
-Procaf√© Lara, C.A. (PYME);PC;Indexada;500.000;mar 2023;037;;;
-Agr√≠cola La Cumbre, C.A. (PYME);PC;Indexada;350.000;mar 2023;035;;;
-Agr√≠cola La Cumbre, C.A. (PYME);OQ;Indexada;350.000;mar 2023;034;;;
-Compa√±√≠a Venezolana de Cer√°mica, C.A. (VENCER√ÅMICA);PC;Bs;200.000;mar 2023;032;;;
-Calox International, C.A.;PC;USD;300.000;mar 2023;031;;;
-Corporaci√≥n Telemic, C.A. (INTER);PC;Indexada;2.000.000;feb 2023;030;;;
-Alma Global, C.A.;PC;Indexada;500.000;feb 2023;026;;;
-Grupo Nueve Once, C.A. (PYME);PC;Indexada;400.000;feb 2023;023;;;
-Alimentos FM, C.A. (Bio Mercados);PC;Bs;800.000;feb 2023;020;;;
-Alimentos FM, C.A. (Bio Mercados);PC;Bs;800.000;feb 2023;019;;;
-Alimentos FM, C.A. (Bio Mercados);PC;Bs;800.000;feb 2023;018;;;
-Alimentos FM, C.A. (Bio Mercados);PC;Bs;800.000;feb 2023;017;;;
-Alimentos FM, C.A. (Bio Mercados);PC;Bs;800.000;feb 2023;016;;;
-Lucky Trade, C.A.;PC;Indexada;300.000;feb 2023;014;;;
-Maqveca, C.A. (PYME);PC;Indexada;300.000;ene 2023;009;;;
-Titularizadora Nuevovalor, C.A.;TP;Bs;12.000.000;ene 2023;008;;;
-Agropecuaria San Carlos, S.A.C.A.;PC;Indexada;500.000;ene 2023;002;;;
-Central Mesopotamia, C.A.;Valorem;Bs;10.000;ene 2023;001;;;
+Emisor;Instrumento;Moneda;Monto;Fecha;#Providencia
+Purolomo, C.A.;PC;Indexada;1.000.000,00;28-dic-23;144
+Genia Care, C.A. ;PC;USD;500.000,00;22-dic-23;139
+L·cteos Prolamar, C.A.;PC;Indexada;400.000,00;18-dic-23;138
+CompaÒÌa Venezolana de Cer·mica, C.A. (VENCER¡MICA);PC;Indexada;300.000,00;13-dic-23;135
+Genia Care, C.A. ;PC;Indexada;500.000,00;30-nov-23;133
+Genia Care, C.A. ;PC;Indexada;500.000,00;30-nov-23;132
+Steritex, C.A.;PC;Bs.;10.500.000,00;30-nov-23;131
+Laboratorios Vincenti, C.A.;PC;Indexada;300.000,00;24-nov-23;129
+Laboratorios Vincenti, C.A.;PC;Indexada;300.000,00;24-nov-23;128
+Acqua Fontana, C.A;PC;Indexada;100.000,00;24-nov-23;127
+CorporaciÛn Damasco, C.A.;PC;USD;1.000.000,00;20-nov-23;126
+Industrias Iberia, C.A.;PC;Bs.;200.000,00;14-nov-23;122
+Mercantil Servicios Financieros, C.A;PC;Bs.;1.000.000,00;03-nov-23;117
+Mercantil Servicios Financieros, C.A;PC;Bs.;1.000.000,00;03-nov-23;118
+Mercantil Servicios Financieros, C.A;PC;Bs.;1.000.000,00;03-nov-23;119
+Capsuven Pharma Labs, C.A.;PC;Indexada;200.000,00;03-nov-23;116
+Fivenca Sociedad Titularizadora;TP;Indexada;150.000,00;17-oct-23;108
+Procesadora Marsoca, C.A.;PC;Bs.;300.000,00;25-oct-23;107
+Procesadora Marsoca, C.A.;PC;Indexada;400.000,00;25-oct-23;106
+Calox International, C.A.;PC;Bs.;500.000,00;17-oct-23;105
+Calox International, C.A.;PC;Bs.;500.000,00;17-oct-23;104
+Dayco Telecom, C.A.;PC;USD;200.000,00;17-oct-23;103
+DOBRASIL, C.A.;Valorem;Indexada;10.000,00;29-sep-23;101
+PIVCA Promotora de Inversiones y Valores, C.A.;PC;USD;2.000.000,00;28-sep-23;100
+PIVCA Promotora de Inversiones y Valores, C.A.;PC;USD;5.000.000,00;22-sep-23;99
+Dayco Telecom, C.A.;PC;USD;700.000,00;15-sep-23;97
+Inversiones POVIC, C.A;Valorem;Indexada;10.000,00;04-sep-23;94
+Calox International, C.A.;PC;Bs.;16.000.000,00;31-ago-23;93
+Calox International, C.A.;PC;Bs.;16.000.000,00;31-ago-23;92
+Agropecuaria San Marino;PC;Indexada;600.000,00;18-ago-23;85
+Alimentos FM, C.A. (Bio Mercados);PC;Indexada;600.000,00;16-ago-23;84
+Inversiones CDE, C.A. (PYME);PCG;USD;300.000,00;15-ago-23;83
+Alice Neum·ticos de Venezuela, C.A.;PC;USD;200.000,00;16-ago-23;82
+Menssajero, C.A.;PC;Indexada;300.000,00;11-ago-23;81
+CorporaciÛn Berakah, C.A.;PCG;Bs.;300.000,00;09-ago-23;79
+CompaÒÌa Venezolana de Cer·mica, C.A. (VENCER¡MICA);PC;Indexada;200.000,00;04-ago-23;78
+C.A. Ron Santa Teresa;PCG;USD;300.000,00;14-jul-23;75
+Fivenca Sociedad Titularizadora;TP;Indexada;450.000,00;13-jul-23;74
+Calox International, C.A.;PC;Bs.;1.836.000,00;30-jun-23;73
+Calox International, C.A.;PC;Bs.;1.836.000,00;30-jun-23;72
+Calox International, C.A.;PC;Bs.;1.836.000,00;30-jun-23;71
+Calox International, C.A.;PC;Bs.;1.836.000,00;30-jun-23;70
+Calox International, C.A.;PC;Bs.;1.836.000,00;30-jun-23;69
+Calox International, C.A.;PC;Bs.;1.836.000,00;30-jun-23;68
+Inversiones Top Suministro, C.A. (PYME);PC;Bs.;400.000,00;16-jun-23;65
+Dayco Telecom, C.A.;PC;USD;700.000,00;16-jun-23;64
+Luis Enrique Romero Galdona;Valorem;Indexada;10.000,00;09-jun-23;61
+Wifi Solution 7-8, C.A.;PCG;Indexada;70.000,00;29-may-23;59
+Distribuidores RÌo de Oro 2013, C.A.;Valorem;Bs.;286.099,00;29-may-23;58
+Mercantil Servicios Financieros, C.A;PC;Bs.;1.000.000,00;17-may-23;57-III
+Mercantil Servicios Financieros, C.A;PC;Bs.;1.000.000,00;17-may-23;57-II
+Mercantil Servicios Financieros, C.A;PC;Bs.;1.000.000,00;17-may-23;57
+Distribuidora AgrÌcola Do-Gil, C.A.;PCG;Indexada;150.000,00;03-may-23;54
+Warao Company, C.A.;Valorem;Bs.;10.000,00;24-abr-23;52
+Montana Gr·fica, C.A.;PC;Bs.;600.000,00;21-abr-23;51
+Montana Gr·fica, C.A.;PC;Bs.;600.000,00;21-abr-23;50
+Alimentos FM, C.A. (Bio Mercados);PCG;Bs.;600.000,00;14-abr-23;49
+Alimentos FM, C.A. (Bio Mercados);PCG;Bs.;600.000,00;14-abr-23;48
+Multiservicios Noreverford Especialistas, C.A.;Valorem;Bs.;7.000,00;12-abr-23;47
+Procesadora Marsoca, C.A.;PCG;USD;400.000,00;12-abr-23;46
+Procesadora Marsoca, C.A.;PC;Indexada;600.000,00;12-abr-23;45
+Industrias Iberia, C.A.;PCG;Bs.;300.000,00;12-abr-23;44
+Agropecuaria Agromar, C.A. (PYME);PCG;Indexada;200.000,00;28-mar-23;39
+Grupo APRADOC, C.A.;PCG;USD;1.000.000,00;28-mar-23;38
+ProcafÈ Lara, C.A. (PYME);PCG;Indexada;500.000,00;27-mar-23;37
+AgrÌcola La Cumbre, C.A. (PYME);PCG;Indexada;350.000,00;22-mar-23;35
+AgrÌcola La Cumbre, C.A. (PYME);OQG;Indexada;350.000,00;22-mar-23;34
+CompaÒÌa Venezolana de Cer·mica, C.A. (VENCER¡MICA);PC;Bs.;200.000,00;14-mar-23;32
+Calox International, C.A.;PCG;USD;300.000,00;14-mar-23;31
+CorporaciÛn Telemic, C.A. (INTER);PC;Indexada;2.000.000,00;28-feb-23;30
+Alma Global, C.A.;PC;Indexada;500.000,00;16-feb-23;26
+Grupo Nueve Once, C.A. (PYME);PC;Indexada;400.000,00;16-feb-23;23
+Dinoska Isabel Yanez Baez;Valorem;Indexada;10.000,00;10-feb-23;22
+Alimentos FM, C.A. (Bio Mercados);PC;Bs.;800.000,00;07-feb-23;20
+Alimentos FM, C.A. (Bio Mercados);PC;Bs.;800.000,00;07-feb-23;19
+Alimentos FM, C.A. (Bio Mercados);PC;Bs.;800.000,00;07-feb-23;18
+Alimentos FM, C.A. (Bio Mercados);PC;Bs.;800.000,00;07-feb-23;17
+Alimentos FM, C.A. (Bio Mercados);PC;Bs.;800.000,00;07-feb-23;16
+Lucky Trade, C.A.;PC;Indexada;300.000,00;07-feb-23;14
+Maqveca, C.A. (PYME);PCG;Indexada;300.000,00;23-ene-23;9
+Titularizadora Nuevovalor, C.A.;TP;Bs.;12.000.000,00;20-ene-23;8
+Agropecuaria San Carlos, S.A.C.A.;PCG;Indexada;500.000,00;06-ene-23;2
+Central Mesopotamia, C.A.;Valorem;Indexada;10.000,00;06-ene-23;1
